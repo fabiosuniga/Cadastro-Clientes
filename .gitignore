@@ -1,0 +1,8 @@
+# Ignorar bancos de dados e planilhas geradas
+*.db
+*.sqlite3
+*.xlsx
+
+# Ignorar pastas de compilação do Python
+__pycache__/
+*.pyc
